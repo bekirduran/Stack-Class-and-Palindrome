@@ -1,0 +1,43 @@
+"are the following lines palindromes?" is not a palindrome
+"a man, a plan, a canal, panama." is a palindrome
+"this line is not a palindrome" is not a palindrome
+"don't nod" is a palindrome
+"the next one might be my favorite" is not a palindrome
+"taco cat!" is a palindrome
+"another non-palindrome" is not a palindrome
+"rats live on no evil star." is a palindrome
+"ıf your program finds this line, it's not working" is not a palindrome
+"neil, a trap! sid is part alien!" is a palindrome
+"step on no pets." is a palindrome
+"dammit, ı'm mad!" is not a palindrome
+"madam, ı'm adam." is a palindrome
+"madam, in eden, ı'm adam." is not a palindrome
+"rise to vote, sir." is a palindrome
+"never odd or even" is a palindrome
+"ıf ı had a hi-fi" is not a palindrome
+"yo, banana boy!" is a palindrome
+"do geese see god?" is a palindrome
+"no devil lived on." is a palindrome
+"ah, satan sees natasha." is a palindrome
+"lewd did ı live & evil ı did dwel!" is a palindrome
+"a dog, a panic in a pagoda" is a palindrome
+"was it a cat ı saw?" is not a palindrome
+"was it a car or a cat ı saw?" is not a palindrome
+"a toyota's a toyota." is a palindrome
+"another non-palindrome" is not a palindrome
+"no lemons, no melon" is a palindrome
+"now ı see bees, ı won." is a palindrome
+"ma is as selfless as ı am." is not a palindrome
+"nurse, ı spy gypsies—run!" is not a palindrome
+"the next one isn't as cool as the panama one" is not a palindrome
+"a dog, a plan, a canal, pagoda" is a palindrome
+"was it eliot's toilet ı saw?" is not a palindrome
+"some of these are hilarious. papaya war?!" is not a palindrome
+"no, sir, away! a papaya war is on!" is a palindrome
+"go hang a salami, ı'm a lasagna hog." is not a palindrome
+"ı, madam, ı made radio! so ı dared! am ı mad? am ı?" is not a palindrome
+"swap god for a janitor, rot in a jar of dog paws." is a palindrome
+"eva, can ı see bees in a cave?" is not a palindrome
+"not a palindrome" is not a palindrome
+"so many dynamos!" is a palindrome
+"red rum, sir, is murder." is a palindrome
